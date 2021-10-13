@@ -23,13 +23,14 @@ The data contains information of 5’986 customers and is available on [kaggle](
 - Modeling & Evaluation
 
 ## Results
-
 - Data Exploration
 
 - Modeling & Evaluation
 
 ## Recommendations
-
+- Offer alternative automatic payment methods
+- Offer a discount in the monthly rate
+- Extra services (offer internet if the client does not have it)
 
 ## Contributing Members
 
